@@ -18,17 +18,13 @@ Please refer to this page(https://jumpjump3030.tistory.com/)
 
 
 
-2. deep learning projects
+* deep learning projects
 
- - fasion mnist project
- 
- Dress was classified using softmax classification. 
+ - fasion mnist project : Dress was classified using softmax classification. 
  It has classified 784 kinds of clothes into 6 types, 
  and will introduce various methods such as data preprocessing and dropout in the future.
  
- - iris classification project
- 
- Various kinds of iris were classified using softmax classification.
+ - iris classification project : Various kinds of iris were classified using softmax classification.
  Only the first item was properly classified and the accuracy hovered around 50%,
  but the accuracy of 87% was obtained by modifying the learning-rate from 0.01 to 0.1.
  
