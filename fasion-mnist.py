@@ -45,7 +45,3 @@ with tf.Session() as sess:
     print("Prediction:", sess.run(prediction, feed_dict={X: x_test}))
     # Calculate the accuracy
     print("Accuracy: ", sess.run(accuracy, feed_dict={X: x_test, Y: y_test}))
-
-'''
-TypeError: Input 'y' of 'Mul' Op has type float32 that does not match type int32 of argument 'x'.
-'''
