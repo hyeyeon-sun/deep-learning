@@ -18,7 +18,7 @@ Please refer to this page(https://jumpjump3030.tistory.com/)
 
 
 
-* deep learning projects
+2. deep learning projects
 
  - fasion mnist project : Dress was classified using softmax classification. 
  It has classified 784 kinds of clothes into 6 types, 
@@ -28,7 +28,8 @@ Please refer to this page(https://jumpjump3030.tistory.com/)
  Only the first item was properly classified and the accuracy hovered around 50%,
  but the accuracy of 87% was obtained by modifying the learning-rate from 0.01 to 0.1.
  
-<reference material>
+ 
+  - reference material
  
  - deep learning for all-sung kim(https://www.youtube.com/user/hunkims)
  
