@@ -5,11 +5,17 @@ the first is to take and review a deep learning course for all,
 and the second is to analyze arbitrary list dataset based on the course.
 
 
+
+
+
 1. deep learning for all lecture review
 
 I've posted the contents of a deep learning course for everyone on my blog and put the source codes here.
 To see a specific description,
 Please refer to this page(https://jumpjump3030.tistory.com/)
+
+
+
 
 
 2. deep learning projects
